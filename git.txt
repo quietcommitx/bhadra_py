@@ -54,7 +54,8 @@ git pull
 # clone github repo
 git clone <github_repo_link>
 
-
+# remove remote git repo 
+git remote remove origin
 
 # git initialize, add and commit the python basic folder
 
